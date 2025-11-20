@@ -3,18 +3,24 @@
 
 <p align="center">
   
-  <img src="https://img.shields.io/badge/Python-3.10+-blue" />
-  <img src="https://img.shields.io/badge/Domain-NLP-yellow" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Enabled-orange" />
-  <img src="https://img.shields.io/badge/License-MIT-green" />
-  <img src="https://img.shields.io/github/stars/kriti029/Automate-Sentiment-Analysis" />
-  <img src="https://img.shields.io/github/forks/kriti029/Automate-Sentiment-Analysis" />
-  <img src="https://img.shields.io/github/last-commit/kriti029/Automate-Sentiment-Analysis" />
+ # Sentiment Analysis Project
+
+# Sentiment Analysis Project
+
+![Python 3.10](https://img.shields.io/badge/Python-3.10-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Used-green)
+![Scikit-Learn](https://img.shields.io/badge/ML-ScikitLearn-yellow)
+
+## 📌 Overview
+This project focuses on...
+
+
+
 
 </p>
 
 ## 📌 Overview
-This project focuses on...
+This project focuses 
 
 🎯 **Goal**: This project analyzes the sentiment of user reviews/comments using NLP and machine learning.
 
