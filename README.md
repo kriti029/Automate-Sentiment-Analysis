@@ -2,10 +2,6 @@
 # Automate-Sentiment-Analysis# 
 
 <p align="center">
-  
- # Sentiment Analysis Project
-
-# Sentiment Analysis Project
 
 ![Python 3.10](https://img.shields.io/badge/Python-3.10-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Used-green)
@@ -20,7 +16,7 @@ This project focuses on...
 </p>
 
 ## 📌 Overview
-This project focuses 
+
 
 🎯 **Goal**: This project analyzes the sentiment of user reviews/comments using NLP and machine learning.
 
